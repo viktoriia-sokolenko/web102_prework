@@ -1,6 +1,6 @@
 # WEB102 Prework - Sea Monster Crowdfunding
 
-Submitted by: **Your Name Here**
+Submitted by: **Viktoriia Sokolenko**
 
 Sea Monster Crowdfunding is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
@@ -34,7 +34,7 @@ GIF created with LiceCap
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+No challenges encountered while building the app.
 
 ## License
 
