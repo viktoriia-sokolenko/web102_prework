@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [x] Search bar to through through games
+* [x] Search bar to search through games
 
 ## Video Walkthrough
 
