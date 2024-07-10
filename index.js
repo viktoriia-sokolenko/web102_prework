@@ -47,7 +47,7 @@ function addGamesToPage(games) {
         container.appendChild (gameCard)
     }
 };
-addGamesToPage (GAMES_JSON);
+
 // call the function we just defined using the correct variable
 // later, we'll call this function using a different list of games
 
@@ -104,6 +104,7 @@ function filterFundedOnly() {
     // use the function we previously created to add unfunded games to the DOM
     addGamesToPage(fundedGames)
 }
+filterFundedOnly()
 // show all games
 function showAllGames() {
     deleteChildElements(gamesContainer);
